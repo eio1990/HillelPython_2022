@@ -6,7 +6,7 @@
 
 
 text = input('Введите произвольную строку: ')
-text_1 = text[::2]
+text_1 = text[1::2]
 text_2 = text.upper()[::-1]
 print(text)
 print(text_1)
