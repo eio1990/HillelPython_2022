@@ -1,8 +1,0 @@
-hello world
-<<<>>>
-'world hello'
-<<<>>>
-WORLD Hello
-<<<>>>
-!hello world?
-<<<>>>
